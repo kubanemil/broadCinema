@@ -32,17 +32,13 @@ idna==3.3
 imageio==2.16.1
 imageio-ffmpeg==0.4.5
 iniconfig==1.1.1
-instabot==0.117.0
 joblib==1.1.0
 mock==4.0.3
 moviepy==1.0.3
 multidict==6.0.2
-numpy==1.22.3
 oauthlib==3.1.1
-opencv-python==4.5.5.64
 outcome==1.1.0
 packaging==21.3
-pandas==1.4.1
 Pillow==9.0.1
 pluggy==1.0.0
 proglog==0.1.9
@@ -55,12 +51,7 @@ pycparser==2.21
 pynput==1.7.6
 pyOpenSSL==21.0.0
 pyparsing==3.0.7
-PyQt5==5.15.6
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.9.1
-PySocks==1.7.1
 pytest==7.1.0
-python-binance==1.0.15
 python-dateutil==2.8.2
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
@@ -71,9 +62,6 @@ requests-toolbelt==0.9.1
 responses==0.19.0
 rsa==4.8
 schedule==1.1.0
-scikit-learn==1.0.2
-scipy==1.8.0
-selenium==4.1.0
 six==1.16.0
 sniffio==1.2.0
 sortedcontainers==2.4.0
@@ -92,4 +80,3 @@ urllib3==1.26.8
 websockets==9.1
 wsproto==1.0.0
 yarl==1.7.2
-youtube-dl==2021.12.17
